@@ -1,0 +1,36 @@
+#ifndef LISTALINEAR_H_INCLUDED
+#define LISTALINEAR_H_INCLUDED
+
+
+template <typename Tipo> //poder mudar o tipo da variavel
+
+
+struct Lista{
+    Tipo *v;
+    int indice;
+    unsigned int tamanho;
+
+    Lista(int tam){
+        indice=-1;  //Indice -1 quer dizer vazio
+        tamanho = tam;
+        v= new Tipo[tamanho];
+    }
+
+    void inserir(Tipo x){
+        indice++;
+        v[indice]=x;
+    }
+    bool listaCheia(){
+        return indice==tamanho-1;
+    }
+    void remover(){
+        indice--;
+    }
+    bool listaVazia(){
+        return indice==-1;
+    }
+    Tipo pegaValor(int posicao){
+        return v[posicao];
+    }
+};
+#endif // LISTALINEAR_H_INCLUDED

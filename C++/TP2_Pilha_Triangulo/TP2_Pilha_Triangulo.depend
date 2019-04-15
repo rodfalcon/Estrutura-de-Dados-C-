@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1552630395 source:/home/rod/Documents/TP2_Pilha_Triangulo/main.cpp
+	<iostream>
+	<cmath>
+	"pilhasequencial.h"
+	"triangulo.h"
+
+1552624089 /home/rod/Documents/TP2_Pilha_Triangulo/pilhasequencial.h
+
+1552624089 /home/rod/Documents/TP2_Pilha_Triangulo/triangulo.h
+	<cmath>
+

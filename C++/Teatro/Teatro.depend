@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1550361642 source:/home/rod/Documents/Teatro/main.cpp
+	<iostream>
+	"ingresso.h"
+
+1550360984 /home/rod/Documents/Teatro/ingresso.h
+

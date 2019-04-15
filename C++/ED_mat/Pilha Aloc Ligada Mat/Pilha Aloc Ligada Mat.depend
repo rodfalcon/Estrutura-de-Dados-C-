@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1553872020 source:c:\users\jchiara\desktop\ed_mat\pilha aloc ligada mat\main.cpp
+	<iostream>
+	"pilhaligada.h"
+
+1553872020 c:\users\jchiara\desktop\ed_mat\pilha aloc ligada mat\pilhaligada.h
+
+1554472169 source:c:\users\lab6\desktop\ed_mat\pilha aloc ligada mat\main.cpp
+	<iostream>
+	"pilhaligada.h"
+
+1553872020 c:\users\lab6\desktop\ed_mat\pilha aloc ligada mat\pilhaligada.h
+

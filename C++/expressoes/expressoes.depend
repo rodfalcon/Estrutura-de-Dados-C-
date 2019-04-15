@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1554469979 source:c:\users\lab6\desktop\expressoes\main.cpp
+	<iostream>
+	<string.h>
+	"pilhaLigada.h"
+
+1554469949 c:\users\lab6\desktop\expressoes\pilhaligada.h
+
