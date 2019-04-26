@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1556286931 source:c:\users\jchiara\desktop\ed_mat\fila ligada mat\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"filaligada.h"
+
+1556286894 c:\users\jchiara\desktop\ed_mat\fila ligada mat\filaligada.h
+
